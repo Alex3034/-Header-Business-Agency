@@ -1,6 +1,6 @@
 # Archesky Web Landing Page
 
-![Header Business Agency](img/Header Business Agency.png)
+![Header Business Agency](./img/Header Business Agency.png)
 
 Bienvenido a **Archesky**, una landing page moderna creada para practicar y mejorar habilidades en **CSS** y **HTML**. Este proyecto simula la página principal de una agencia de consultoría empresarial, destacando servicios clave y métricas de impacto.
 
